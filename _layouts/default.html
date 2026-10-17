@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} — Ferjo</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { max-width: 48rem; margin: auto; padding: 1.5rem; font: 1rem/1.6 system-ui, sans-serif; overflow-wrap: anywhere; }
+    nav { padding-bottom: 1rem; border-bottom: 1px solid GrayText; }
+    h1, h2, h3 { line-height: 1.25; }
+    h2 { margin-top: 2rem; }
+    a { text-underline-offset: .15em; }
+    a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+  </style>
+</head>
+<body>
+  <nav aria-label="Main navigation">
+    <a href="index.html">Ferjo</a> ·
+    <a href="privacy.html">Privacy / <span lang="nn">Personvern</span></a> ·
+    <a href="support.html">Support / <span lang="nn">Brukarstøtte</span></a>
+  </nav>
+  <main>{{ content }}</main>
+</body>
+</html>
