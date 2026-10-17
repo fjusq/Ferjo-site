@@ -50,7 +50,10 @@ You can remove favourites in Ferjo and change preferences in Settings. To remove
 
 ### Contact and privacy rights
 
-A developer contact for questions or requests concerning Ferjo’s processing must be supplied before publication; no contact address is configured yet. If you contact support, the recipient receives the message and contact information you choose to provide. The support channel and its retention policy must be finalised before publication. Depending on applicable law, you may request access, correction, erasure or restriction, object to processing, or request portability. You may also complain to your data protection authority, such as Norway’s Datatilsynet. Requests concerning Entur’s independent logs should be directed to Entur.
+Ferjo is developed and maintained by Hans Christian Haaland.
+
+For privacy-related questions, requests concerning personal data,
+or general support, contact [ferjo@hlan.it](mailto:ferjo@hlan.it).
 
 This policy will be updated when Ferjo’s practices change. The published version will show its effective date.
 
@@ -102,13 +105,20 @@ Eksterne lenkjer vert berre opna når du vel dei. Nettstaden eller appen du opna
 Du kan fjerne favorittar i Ferjo og endre vala dine i Innstillingar. Bruk Slett app i iOS-innstillingane for å fjerne lokale data frå den installerte appen, ikkje Fjern app utan å slette data. iOS styrer kopiar i delte lagringsområde og tryggingskopiar; å fjerne berre ein widget slettar ikkje favorittane. Administrer tryggingskopiar separat i Apple-innstillingane. Sletting av Ferjo slettar ikkje loggar som Entur eller Apple allereie har lagra.
 
 ### Kontakt og personvernrettar
+Ferjo er utvikla og vert vedlikehalden av Hans Christian Haaland.
 
-Ein utviklarkontakt for spørsmål eller førespurnader om Ferjo si handsaming må opplysast før publisering; inga kontaktadresse er sett opp enno. Kontaktar du brukarstøtte, får mottakaren meldinga og kontaktopplysningane du vel å sende. Kontaktkanalen og lagringstida må avklarast før publisering. Etter gjeldande lov kan du ha rett til innsyn, retting, sletting, avgrensing, å protestere mot handsaming eller å få utlevert opplysningar. Du kan òg klage til personvernstyresmakta, til dømes Datatilsynet i Noreg. Førespurnader om Entur sine eigne loggar bør rettast til Entur.
+For spørsmål om personvern, førespurnader om personopplysningar
+eller generell brukarstøtte, kontakt
+[ferjo@hlan.it](mailto:ferjo@hlan.it).
+
+Etter gjeldande lov kan du ha rett til innsyn, retting, sletting, avgrensing, å protestere mot handsaming eller å få utlevert opplysningar. Du kan òg klage til personvernstyresmakta, til dømes Datatilsynet i Noreg. Førespurnader om Entur sine eigne loggar bør rettast til Entur.
 
 Erklæringa vert oppdatert når praksisen til Ferjo endrar seg. Den publiserte utgåva vil vise datoen ho gjeld frå.
 
 ### Denne nettstaden
 
-Denne statiske nettstaden ligg på GitHub Pages. Kjeldekoden legg ikkje til analyseverktøy, sporingsskript eller informasjonskapslar. GitHub opplyser at Pages loggar og lagrar IP-adressene til vitjande for tryggleiksføremål, òg når dei ikkje er innlogga. Dette er difor ikkje ein lovnad om at ingen opplysningar vert samla inn. GitHub styrer si eiga lagring og handsaming; sjå [datainnsamling på GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) og [personvernerklæringa til GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Nettstaden har ikkje noko kontaktskjema; brukarstøtte vil bruke kontaktkanalen som må opplysast før publisering.
+Denne statiske nettstaden ligg på GitHub Pages. Kjeldekoden legg ikkje til analyseverktøy, sporingsskript eller informasjonskapslar. GitHub opplyser at Pages loggar og lagrar IP-adressene til vitjande for tryggleiksføremål, òg når dei ikkje er innlogga. Dette er difor ikkje ein lovnad om at ingen opplysningar vert samla inn. GitHub styrer si eiga lagring og handsaming; sjå [datainnsamling på GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) og [personvernerklæringa til GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). 
+
+Nettstaden har ikkje noko kontaktskjema; brukarstøtte vil bruke kontaktkanalen som må opplysast før publisering.
 
 </div>
