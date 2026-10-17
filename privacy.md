@@ -13,9 +13,9 @@ title: Privacy / Personvern
 
 **Publication draft — not ready to publish.** Before publication, add the developer/controller’s legal name and contact details, effective date and public policy URL. Confirm the legal bases, support-mail retention and the hosting provider’s practices. Remove this notice only after completing that review.
 
-Effective date: to be supplied before publication.<br>
-Developer and controller for Ferjo: to be supplied.<br>
-Privacy and support contact: to be supplied.
+Effective date: 17.10.2026.<br>
+Developer and controller for Ferjo: Hans Christian Haaland<br>
+Privacy and support contact: hc@hlan.it  
 
 ### What Ferjo does
 
@@ -67,9 +67,9 @@ This static website is hosted on GitHub Pages. Its source adds no analytics, tra
 
 **Utkast — ikkje klart for publisering.** Før publisering må det juridiske namnet og kontaktopplysningane til utviklaren/den behandlingsansvarlege, datoen erklæringa gjeld frå og den offentlege nettadressa fyllast inn. Avklar behandlingsgrunnlag, lagringstid for førespurnader til brukarstøtte og praksisen til nettleverandøren. Fjern denne merknaden først når gjennomgangen er fullført.
 
-Gjeld frå: må fyllast inn før publisering.<br>
-Utviklar og behandlingsansvarleg for Ferjo: må fyllast inn.<br>
-Kontakt for personvern og brukarstøtte: må fyllast inn.
+Gjeld frå: 17.10.2026.<br>
+Utviklar og behandlingsansvarleg for Ferjo: Hans Christian Haaland.<br>
+Kontakt for personvern og brukarstøtte: ferjo@hlan.it  
 
 ### Kva Ferjo gjer
 
