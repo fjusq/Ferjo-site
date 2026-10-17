@@ -14,7 +14,7 @@ title: Privacy / Personvern
 
 Effective date: 17.10.2026.<br>
 Developer and controller for Ferjo: Hans Christian Haaland<br>
-Privacy and support contact: hc@hlan.it  
+Privacy and support contact: ferjo@hlan.it  
 
 ### What Ferjo does
 
